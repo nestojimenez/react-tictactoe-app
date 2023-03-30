@@ -1,4 +1,4 @@
-# ATM APP
+# Tic Tac Toe
 
 This project was setup with [Create React App](https://github.com/facebook/create-react-app).
 
